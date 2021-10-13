@@ -2,15 +2,15 @@
   font-weight: lighter;
 }
 
-h2.intro {
+.intro h2 {
   color: grey;
 }
 
-p.intro {
+.intro p {
   color: darkgray;
   font-style: italic;
 }
 
-img.intro {
+.intro img {
   border: medium dashed rgb(160, 137, 137);
 }
