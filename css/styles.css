@@ -1,0 +1,16 @@
+.intro {
+  font-weight: lighter;
+}
+
+h2.intro {
+  color: grey;
+}
+
+p.intro {
+  color: darkgray;
+  font-style: italic;
+}
+
+img.intro {
+  border: medium dashed rgb(160, 137, 137);
+}
