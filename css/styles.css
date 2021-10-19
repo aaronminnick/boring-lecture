@@ -2,15 +2,20 @@
   font-weight: lighter;
 }
 
-.intro h2 {
-  color: grey;
-}
-
 .intro p {
-  color: darkgray;
   font-style: italic;
 }
 
 .intro img {
   border: medium dashed rgb(160, 137, 137);
+}
+
+.light-scheme {
+  color: black;
+  background-color: lightgrey;
+}
+
+.dark-scheme {
+  color: lightgrey;
+  background-color: darkslategrey;
 }
