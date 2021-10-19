@@ -19,3 +19,8 @@
   color: lightgrey;
   background-color: darkslategrey;
 }
+
+.highlight {
+  background-color: darkorange;
+  border: 2px dashed red;
+}
